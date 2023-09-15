@@ -270,8 +270,8 @@ export const plansData = [
     category: ['Tümü', 'Vitamin Bar'],
   },
   {
-    icon: <img src={psuyu} alt='' />,
-    name: 'Portakal Suyu',
+    icon: <img src={psm} alt='' />,
+    name: 'Protein Smothie',
     price: '70₺',
     features: ['Vitamini Deposu', 'Kaliteli Protein', 'Kas Gelişimine Katkı'],
     category: ['Tümü', 'Vitamin Bar'],
