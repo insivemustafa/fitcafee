@@ -8,14 +8,28 @@ import Heart from '../../assets/heart.png';
 import Calories from '../../assets/calories.png';
 import { motion } from 'framer-motion';
 import NumberCounter from 'number-counter';
+import logo from '../../assets/logo.png';
 
 const Hero = () => {
-
   const transition = { duration: 3, type: 'spring' };
   const mobile = window.innerWidth <= 768 ? true : false;
   return (
     <div className='hero'>
-      <div className='blur hero-blur'></div>
+      <div>
+        <img
+          style={{
+            position: 'absolute',
+            top: '14px',
+            left: '2rem',
+            width: '200px',
+            height: '80px',
+          }}
+          src={logo}
+          alt='logo'
+          width={250}
+          height={250}
+        />
+      </div>
 
       <div className='left-h'>
         {/* the best ad */}
@@ -23,7 +37,7 @@ const Hero = () => {
           <motion.div
             initial={{ left: mobile ? '100px' : '145px' }}
             whileInView={{ left: '8px' }}
-            transition={{ ...transition, type: 'tween' }} 
+            transition={{ ...transition, type: 'tween' }}
           ></motion.div>
           <span>Şehirin En İyi Fitness Cafesi </span>
         </div>
@@ -68,7 +82,13 @@ const Hero = () => {
 
         {/* hero buttons */}
         <div className='hero-buttons'>
-          <Link style={{display:'flex', justifyContent:'center'}} className='btn' to='plans' spy={true} smooth={true}>
+          <Link
+            style={{ display: 'flex', justifyContent: 'center' }}
+            className='btn'
+            to='plans'
+            spy={true}
+            smooth={true}
+          >
             Menü
           </Link>
         </div>

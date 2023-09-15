@@ -22,7 +22,7 @@
 }
 
 .the-best-ad {
-  margin-top: 4rem;
+  margin-top: 6rem;
   background-color: #393d42;
   border-radius: 4rem;
   width: fit-content;
@@ -181,7 +181,7 @@
     width: 14rem;
   }
   .the-best-ad {
-    margin-top: 0;
+    
     font-size: small;
     align-self: center;
     transform: scale(0.8);
