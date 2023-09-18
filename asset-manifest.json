@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8b0a82d.css",
-    "main.js": "/static/js/main.36a52fc6.js",
+    "main.css": "/static/css/main.b3d4b883.css",
+    "main.js": "/static/js/main.6d39b4ce.js",
     "static/media/ton-balikli-sandvic-tarifi-nasil-yapilir.png": "/static/media/ton-balikli-sandvic-tarifi-nasil-yapilir.9039744c5e20550b44a7.png",
     "static/media/hero_image.png": "/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/static/media/t-image1.c16c2c261034cf78ee57.png",
@@ -40,11 +40,11 @@
     "static/media/c99be34b-ec24-466d-bf10-5f172a6b793a.png": "/static/media/c99be34b-ec24-466d-bf10-5f172a6b793a.a5e7fd375130d34337be.png",
     "static/media/hero_image_back.png": "/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/index.html",
-    "main.b8b0a82d.css.map": "/static/css/main.b8b0a82d.css.map",
-    "main.36a52fc6.js.map": "/static/js/main.36a52fc6.js.map"
+    "main.b3d4b883.css.map": "/static/css/main.b3d4b883.css.map",
+    "main.6d39b4ce.js.map": "/static/js/main.6d39b4ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8b0a82d.css",
-    "static/js/main.36a52fc6.js"
+    "static/css/main.b3d4b883.css",
+    "static/js/main.6d39b4ce.js"
   ]
 }
