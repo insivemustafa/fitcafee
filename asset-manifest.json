@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b3d4b883.css",
-    "main.js": "/static/js/main.fb56f009.js",
+    "main.js": "/static/js/main.a1a4fba2.js",
     "static/media/ton-balikli-sandvic-tarifi-nasil-yapilir.png": "/static/media/ton-balikli-sandvic-tarifi-nasil-yapilir.9039744c5e20550b44a7.png",
     "static/media/hero_image.png": "/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/static/media/t-image1.c16c2c261034cf78ee57.png",
@@ -38,13 +38,14 @@
     "static/media/resimayar-removebg-preview.png": "/static/media/resimayar-removebg-preview.68562b66570119c3ed7a.png",
     "static/media/c842cf79-ebff-46e8-8803-c22eea9005ea-removebg-preview.png": "/static/media/c842cf79-ebff-46e8-8803-c22eea9005ea-removebg-preview.199cce2da3188dfccdbe.png",
     "static/media/c99be34b-ec24-466d-bf10-5f172a6b793a.png": "/static/media/c99be34b-ec24-466d-bf10-5f172a6b793a.a5e7fd375130d34337be.png",
+    "static/media/logo2.png": "/static/media/logo2.d8eb997857a8a98d4a41.png",
     "static/media/hero_image_back.png": "/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/index.html",
     "main.b3d4b883.css.map": "/static/css/main.b3d4b883.css.map",
-    "main.fb56f009.js.map": "/static/js/main.fb56f009.js.map"
+    "main.a1a4fba2.js.map": "/static/js/main.a1a4fba2.js.map"
   },
   "entrypoints": [
     "static/css/main.b3d4b883.css",
-    "static/js/main.fb56f009.js"
+    "static/js/main.a1a4fba2.js"
   ]
 }
